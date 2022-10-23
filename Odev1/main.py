@@ -1,7 +1,4 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+#İsmail ÖNER 02200201041
 
 import cv2 as cv
 import numpy as nm
@@ -20,7 +17,4 @@ for i in range(0,y):
 
 for i in range(0,256):
     print("{0} - {1}".format(i,hist[i]))
-
-
-
-
+    
